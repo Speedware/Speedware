@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 44" width="330" height="44">
+  <g transform="translate(0,2) scale(0.10101)">
+    <polygon fill="#ffffff" points="145.61 234 73.61 378 217.61 378 145.61 234"/>
+    <polygon fill="#ffffff" points="324 18 396 162 468 18 324 18"/>
+    <polygon fill="#ffffff" points="540 18 432 234 504 378 684 18 540 18"/>
+    <polygon fill="#ffffff" points="756 18 648 234 720 378 900 18 756 18"/>
+    <path fill="#ffffff" d="M288,378l-108-216L252,18l108,216c5.57,10.05,8.04,19.25,9,27,5.17,41.77-27.9,86.61-81,117Z"/>
+    <path fill="#ffffff" d="M252,18l108,216-72,144-108-216c-5.57-10.05-8.04-19.25-9-27-5.17-41.77,27.9-86.61,81-117Z"/>
+  </g>
+  <text x="114" y="31" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600">speedware.tech</text>
+</svg>
