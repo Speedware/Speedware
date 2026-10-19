@@ -6,7 +6,7 @@ System administrator at NONTON, based in Saint Petersburg. I like writing code a
 
 #### Tools I built for NONTON
 
-- <img src="assets/anyscreen.svg" width="28" height="28" align="absmiddle"> **[anyscreen](https://github.com/Speedware/anyscreen)** — digital signage for office screens, managed from a web dashboard. Players for Android TV and the browser, deployed with one command.
+- <img src="assets/anyscreen.svg" width="28" height="28" align="absmiddle"> **[anyscreen](https://github.com/Speedware/anyscreen)** — digital signage managed from a web dashboard. Players for Android TV and the browser, deployed with one command.
 
 - <img src="assets/tandem.svg" width="28" height="28" align="absmiddle"> **[tandem](https://github.com/Speedware/tandem)** — mirrors an application window onto a second monitor on Windows.
 
