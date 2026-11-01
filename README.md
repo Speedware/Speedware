@@ -12,6 +12,7 @@ System administrator at NONTON, based in Saint Petersburg. I like writing code a
 
 - <img src="assets/scrlog.svg" width="28" height="28" align="absmiddle"> **[scrlog](https://github.com/Speedware/scrlog)** — a Windows service that records the screen during working hours and cleans up old recordings.
 
+- <img src="assets/marka.svg" width="28" height="28" align="absmiddle"> **[scrlog](https://github.com/Speedware/marka)** — A utility that converts "Честный знак" labeling codes from PDF format to CSV format..
 
 #### Other
 
