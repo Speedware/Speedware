@@ -20,6 +20,8 @@ System administrator at NONTON, based in Saint Petersburg. I like writing code a
 
 - <img src="assets/calsync.svg" width="28" height="28" align="absmiddle"> **[calsync](https://github.com/Speedware/calsync)** — turns the university class schedule into a calendar subscription that stays up to date.
 
+- <img src="assets/mobility.svg" width="28" height="28" align="absmiddle"> **[mobility](https://github.com/Speedware/mobility-tracker)** — Web application for e-bike rentals by Dodo couriers, featuring a control panel.
+
 <br>
 
 <a href="https://speedware.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/speedware-site-white.svg"><img src="assets/speedware-site.svg" width="300" alt="speedware.tech"></picture></a>
