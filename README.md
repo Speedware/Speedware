@@ -12,7 +12,7 @@ System administrator at NONTON, based in Saint Petersburg. I like writing code a
 
 - <img src="assets/scrlog.svg" width="28" height="28" align="absmiddle"> **[scrlog](https://github.com/Speedware/scrlog)** — a Windows service that records the screen during working hours and cleans up old recordings.
 
-- <img src="assets/marka.svg" width="28" height="28" align="absmiddle"> **[marka](https://github.com/Speedware/marka)** — A utility that converts "Честный знак" labeling codes from PDF format to CSV format.
+- <img src="assets/marka.svg" width="28" height="28" align="absmiddle"> **[marka](https://github.com/Speedware/marka)** — a utility that converts "Честный знак" labeling codes from PDF format to CSV format.
 
 #### Other
 
@@ -20,7 +20,7 @@ System administrator at NONTON, based in Saint Petersburg. I like writing code a
 
 - <img src="assets/calsync.svg" width="28" height="28" align="absmiddle"> **[calsync](https://github.com/Speedware/calsync)** — turns the university class schedule into a calendar subscription that stays up to date.
 
-- <img src="assets/mobility.svg" width="28" height="28" align="absmiddle"> **[mobility](https://github.com/Speedware/mobility-tracker)** — Web application for e-bike rentals by Dodo couriers, featuring a control panel.
+- <img src="assets/mobility.svg" width="28" height="28" align="absmiddle"> **[mobility](https://github.com/Speedware/mobility-tracker)** — web application for e-bike rentals by Dodo couriers, featuring a control panel.
 
 <br>
 
